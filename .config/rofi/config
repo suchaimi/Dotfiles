@@ -1,0 +1,4 @@
+rofi.font:  Roboto 12
+rofi.lines: 8
+rofi.width: 550
+rofi.theme: ~/.cache/wal/colors-rofi-dark
